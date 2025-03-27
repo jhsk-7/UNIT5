@@ -4,7 +4,7 @@ const friend = "BRUTUS";
 const shiftValue = 3;
 const alphabet = "abcdefghijklmnopqrstuvwxyz";
 const inV = 2
-
+ 
 //Function to preserve the case of the letter 
 function checkCase (lit) {
     if (lit === lit.toLowerCase()) {
